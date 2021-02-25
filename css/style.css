@@ -27,6 +27,10 @@ img {
   padding: 20px;
 }
 
+h3{
+  padding: 10px 0;
+}
+
 /* BLOCCO LEZIONI */
 #lezioni .row img {
   /* per centrare orizzontalmente */
@@ -41,6 +45,19 @@ img {
   background-color: #428bca;
   border-radius: 50%;
   padding: 20px
+}
+
+/* Media query */
+@media all and (max-width: 767px) {
+  img {
+    height: 100px;
+    width: auto;
+  }
+
+  #why .row img {
+    height: 80px;
+    width: auto;
+  }
 }
 
 
