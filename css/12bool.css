@@ -128,7 +128,7 @@
     }
 
     /* Hidden */
-    .col-lg-hidden{
+    .lg-hidden{
         display: none;
     }
 }
@@ -209,7 +209,7 @@
     }
 
     /* Hidden */
-    .col-md-hidden{
+    .md-hidden{
         display: none;
     }
 }
@@ -290,7 +290,7 @@
     }
 
     /* Hidden */
-    .col-xs-hidden{
+    .xs-hidden{
         display: none;
     }
 }
